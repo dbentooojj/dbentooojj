@@ -2,7 +2,6 @@
 
 
 <div>
-  <a href="https://api.whatsapp.com/send?phone=5547999600742">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dbentooojj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentooojj&layout=compact&langs_count=7&theme=dark"/>
 </div>
