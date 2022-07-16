@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/dbentooojj">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&custom_title=Github Stats&username=d" height="150" alt="stats graph"  />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&username=d" height="150" alt="languages graph"  />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&custom_title=Github Stats&username=dbentooojj" height="150" alt="stats graph"  />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&username=dbentooojj" height="150" alt="languages graph"  />
 </div>
 
 <hr/>
