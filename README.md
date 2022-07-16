@@ -32,12 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/d/d/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="javascript logo"  />
