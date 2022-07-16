@@ -3,12 +3,11 @@
 ###
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&custom_title=Github Stats&username=dbentooojj" height="115" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&username=dbentooojj" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&custom_title=Github Stats&username=d" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&username=d" height="149" alt="languages graph"  />
 </div>
 
-<hr/>
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dbento/" target="_blank">
@@ -31,14 +30,13 @@
   </a>
 </div>
 
-<hr/>
+###
 
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/d/d/blob/output/snake.svg" alt="Snake animation" />
 
-<h3>     "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz." - Bill Gates<h3/>
-
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
