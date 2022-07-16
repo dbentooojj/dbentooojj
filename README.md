@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&username=dbentooojj" height="130em" alt="languages graph"  />
 </div>
 
-###
+<hr/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dbento/" target="_blank">
@@ -30,13 +30,17 @@
   </a>
 </div>
 
-###
+<hr/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="60" alt="css3 logo"  />
+  
+<div align="center">
+<h3>"Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz." - Bill Gates<h3/>
 </div>
+
 
 ###
