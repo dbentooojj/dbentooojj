@@ -39,6 +39,7 @@
 
 ###
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)(https://github.com/dbentooojj/dbentooojj/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
