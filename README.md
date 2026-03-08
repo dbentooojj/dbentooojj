@@ -1,33 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Diogo%20Bento&fontSize=40&fontColor=ffffff"/>
+# Diogo Bento
 
-<h1 align="center">👋 Olá, eu sou o Diogo</h1>
+Desenvolvedor interessado em criar soluções simples e eficientes.
 
-<p align="center">
-Desenvolvedor focado em criar soluções simples e eficientes.
-</p>
+## Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,mysql,terraform&theme=dark" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,mysql,terraform)
 
----
+## GitHub Stats
 
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dbentoojj&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbentoojj&show_icons=true&theme=github_dark)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentoojj&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbentoojj&layout=compact&theme=github_dark)
 
----
+## Contato
 
-<p align="center">
-
-<a href="https://linkedin.com/in/dbento">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:usecredix@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- LinkedIn: https://linkedin.com/in/dbento
+- Email: bento431@gmail.com
