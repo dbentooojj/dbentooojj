@@ -1,62 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Diogo+Bento;I'm+30+years+old;I'm+from+Blumenau,+Santa+Catarina;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Olá 👋, eu sou o Diogo Bento</h1>
 
-###
+<p align="center">
+💻 Desenvolvedor focado em criar soluções simples para problemas reais  
+🚀 Construindo aplicações e automatizando processos  
+📚 Sempre aprendendo novas tecnologias
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dbentooojj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentooojj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+---
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=dbentooojj&theme=gotham&hide_border=true&area=true)
+### 🚀 Tecnologias
 
-<hr/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,mysql,terraform" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dbento/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dbentooojj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/dbentooo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsdCtJmtkCQxLdvhkgXZlNDsGhjslsJnkMFQrPpZTZJdpNsFvrjNFFCDZsttwwJkLhxtNvgb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/dbentooojj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/5547999600742" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
-  </a>
-  
-</div>
+---
 
-<hr/>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dbentoojj&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentoojj&layout=compact&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60" alt="python logo"  />
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+---
 
-  
-<div align="center">
-<h3>"Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz." - Bill Gates<h3/>
-</div>
+### 🌎 Onde me encontrar
 
-###
+<p align="center">
+<a href="https://linkedin.com/in/dbento">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-![Snake animation](https://github.com/dbentooojj/dbentooojj/blob/output/github-contribution-grid-snake.svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
+<a href="mailto:usecredix@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
