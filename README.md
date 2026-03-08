@@ -1,34 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Diogo%20Bento&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Diogo%20Bento&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">Olá 👋, eu sou o Diogo Bento</h1>
+<h1 align="center">👋 Olá, eu sou o Diogo</h1>
 
 <p align="center">
-💻 Desenvolvedor focado em criar soluções simples para problemas reais <br>
-🚀 Construindo aplicações e automatizando processos <br>
-📚 Sempre aprendendo novas tecnologias
+Desenvolvedor focado em criar soluções simples e eficientes.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,mysql,terraform&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Tecnologias
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,docker,kubernetes,mysql,terraform" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dbentoojj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentoojj&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dbentoojj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbentoojj&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🌎 Onde me encontrar
 
 <p align="center">
 
@@ -37,7 +27,7 @@
 </a>
 
 <a href="mailto:usecredix@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
